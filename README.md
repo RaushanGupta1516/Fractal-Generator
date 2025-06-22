@@ -2,7 +2,9 @@
 
 Fractal Explorer is a beautiful and interactive fractal rendering app built with React.js. It allows users to explore and customize Mandelbrot and Julia sets, change color schemes, animate the fractals, zoom, pan, and even download the canvas as an image.
 
----
+## 🔗 Live Demo
+
+👉 [Click here to try it out!](https://fractal-generator-sigma.vercel.app/)  
 
 ## ✨ Features
 
