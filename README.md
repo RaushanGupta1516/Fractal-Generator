@@ -18,8 +18,15 @@ Fractal Explorer is a beautiful and interactive fractal rendering app built with
 
 ## 📸 Preview
 
+### 🔹 App UI
+![App UI]()
 
----
+### 🔹 Mandelbrot Zoom
+![Mandelbrot Zoom]()
+
+### 🔹 Julia Set
+![Julia Set]()
+
 
 ## 🚀 Getting Started
 
