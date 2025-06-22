@@ -25,7 +25,7 @@ Fractal Explorer is a beautiful and interactive fractal rendering app built with
 ![Mandelbrot Zoom](https://github.com/RaushanGupta1516/Fractal-Generator/blob/main/Screenshot%202025-06-22%20201332.png)
 
 ### 🔹 Julia Set
-![Julia Set]()
+![Julia Set](https://github.com/RaushanGupta1516/Fractal-Generator/blob/main/Screenshot%202025-06-22%20201435.png)
 
 
 ## 🚀 Getting Started
