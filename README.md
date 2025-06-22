@@ -19,7 +19,7 @@ Fractal Explorer is a beautiful and interactive fractal rendering app built with
 ## 📸 Preview
 
 ### 🔹 App UI
-![App UI]()
+![App UI](https://github.com/RaushanGupta1516/Fractal-Generator/blob/main/Screenshot%202025-06-22%20201324.png)
 
 ### 🔹 Mandelbrot Zoom
 ![Mandelbrot Zoom]()
